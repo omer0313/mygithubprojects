@@ -1,2 +1,2 @@
 # mygithubprojects
-github proje başlangıç
+github proje başlangıç deneme sürümü
